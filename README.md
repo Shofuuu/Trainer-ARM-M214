@@ -1,2 +1,1 @@
-# Trainer ARM M214
-# Trainer ARM STM32F103V M214
+# Trainer ARM STM32F103VET M214
